@@ -3,6 +3,11 @@ body  {
   font-family: liberation mono;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 .header {
   padding: 60px;
   text-align: left;
