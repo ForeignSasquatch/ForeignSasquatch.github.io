@@ -1,0 +1,1 @@
+haxe -lib markdown -m Main.hx --interp
