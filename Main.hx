@@ -38,7 +38,8 @@ var hml =
   <a href='https://www.github.com/foreignsasquatch'> [github] </a>
   <a href='https://mastodon.gamedev.place/@foreignsasquatch'> [mastodon] </a>
   <a href='https://www.twitter.com/fsasquatch01'> [twitter] </a>
-</div>
+  [discord: foreignsasquatch#6574]
+  </div>
 <hr>
 <div class='content'>
   <h1> Posts </h1>
