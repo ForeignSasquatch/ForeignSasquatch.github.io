@@ -1,6 +1,6 @@
 heading: Initial Post
 time: Mar 04, 2023
-quote: Why study while i can spend time making something which as been done better before
+quote: why make something useful
 desc: First post cause every blog needs that
 
 ^
