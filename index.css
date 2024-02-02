@@ -9,14 +9,14 @@ html, body {
 }
 
 .header {
-  padding: 60px;
+  padding: 30px;
   text-align: left;
   color: gray;
   font-size: 15px;
 }
 
 .content {
-  padding: 10px 60px;
+  padding: 10px 30px;
   text-align: left;
   color: gray;
   font-size: 15px;
@@ -24,11 +24,12 @@ html, body {
 
 .card {
   padding: 15px;
-  border:3px solid gray;
+  border:2px solid gray;
+  border-radius: 10px;
 }
 
 .posts {
-  padding: 100px;
+  padding: 30px;
   color: gray;
 }
 
@@ -42,6 +43,10 @@ a  {
   text-decoration: none;
 }
 
+a:hover {
+  color: lightgray;
+}
+
 a:active {
   color: red;
 }
@@ -53,7 +58,7 @@ a:target {
 
 hr {
   border: 0;
-  border-top: 3px solid gray;
+  border-top: 2px solid gray;
 }
 
 div:not(:first-child):not(:last-child) {
